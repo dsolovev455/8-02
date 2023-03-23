@@ -26,7 +26,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. https://github.com/dsolovev455/8-02/blob/main/1.txt
+1. https://github.com/dsolovev455/8-02/blob/main/txt/1.txt
 
 /usr/local/go/bin/go test .
 docker build . -t ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER
@@ -45,7 +45,7 @@ docker login ubuntu-bionic:8082 -u admin -p 123 && docker push ubuntu-bionic:808
 
 `Приведите ответ в свободной форме........`
 
-1. https://github.com/dsolovev455/8-02/blob/main/2.txt
+1. https://github.com/dsolovev455/8-02/blob/main/txt/2.txt
 
 
 pipeline {
@@ -80,7 +80,7 @@ pipeline {
 
 `Приведите ответ в свободной форме........`
 
-1. https://github.com/dsolovev455/8-02/blob/main/3.txt
+1. https://github.com/dsolovev455/8-02/blob/main/txt/3.txt
  
 
 pipeline {
